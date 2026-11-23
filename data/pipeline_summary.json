@@ -1,0 +1,26 @@
+{
+    "project": "AI Intelligence Pipeline",
+    "generatedAt": "2026-11-23T11:37:58.270716+00:00",
+    "totalRecords": 457,
+    "datasetCounts": {
+        "PRODUCT": 20,
+        "STARTUP_MENTION": 422,
+        "RESEARCH_PAPER": 15
+    },
+    "recordTypeDistribution": {
+        "PRODUCT": 20,
+        "STARTUP_MENTION": 422,
+        "RESEARCH_PAPER": 15
+    },
+    "githubQualityDistribution": {
+        "UNVERIFIED": 11,
+        "HIGH": 3,
+        "LOW": 1
+    },
+    "duplicateStartupMentions": 2,
+    "warnings": [
+        "2 duplicate startup mentions detected",
+        "11 research papers have unverified GitHub matches"
+    ],
+    "outputFile": "data\\ai_intelligence_graph.json"
+}

@@ -1,0 +1,14 @@
+
+aiohttp
+beautifulsoup4
+pandas
+requests
+playwright
+python-dotenv
+feedparser
+pytest
+gspread
+google-auth
+google-genai
+groq
+tenacity

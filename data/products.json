@@ -1,0 +1,342 @@
+[
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/qrcodealchemy-qr-code-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "QRCodeAlchemy QR Code Generator",
+            "description": "QRCodeAlchemy is an AI-powered online QR code generator that helps individuals and businesses create beautiful, customizable, and functional QR codes. It offers AI art QR codes, custom QR designs, dynamic QR codes, image QR codes, bulk generation, and scan analytics. Users can customize colors, patterns, logos, and frames, and export QR codes in multiple formats, including PNG, SVG, and PDF. Whether for marketing, business, restaurants, or personal use",
+            "tagline": "Creating QR Codes Online",
+            "website": "https://www.producthunt.com/r/ZTLUDXDWQYEAM3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Yoroll",
+            "description": "Yoroll lets anyone turn stories into playable, cinematic games without coding or a game engine. Start with a script, image, or video clip, then direct the scenes, add player choices, and create branching storylines with different outcomes. AI helps bring everything together into an interactive experience you can share. It's more like directing your own interactive movie than programming a game.",
+            "tagline": "Build playable stories without a game engine",
+            "website": "https://www.producthunt.com/r/XKLWN5SDJ5RSLW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Rankhog",
+            "description": "Rankhog finds people on Reddit asking for what you sell. It reads each subreddit's rules, writes a reply that helps, and posts it from your own account at a human pace. Say yes to each reply, or turn on autopilot. No Reddit account? Rankhog warms up a new one, and you own it. Run it from the app, or from Claude, ChatGPT, Cursor and any MCP client. 7 days free.",
+            "tagline": "Get customers from Reddit on autopilot",
+            "website": "https://www.producthunt.com/r/HVFQNHONLRBAJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Resurf",
+            "description": "A fully local personal context library for Mac, iPhone, and iPad. Save notes, links, images, and documents. Hand off context to AI through MCP or the CLI on Mac.",
+            "tagline": "Personal Knowledge Base & Bookmark Manager for Mac",
+            "website": "https://www.producthunt.com/r/VXIIBY4W6WDWZU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/daymaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Daymaker",
+            "description": "Daymaker is known for coldcakes, that ends today. Daymaker is the tool that researches your prospects, finds out their interests, recommends a personalized gift, repackages it in your branding, and sends it to your prospect. Making sure you get your meeting. Want it done for you? We run the campaign and guarantee the meetings.",
+            "tagline": "Gifts so personal, your prospects take the meeting.",
+            "website": "https://www.producthunt.com/r/22SNOV53PPMTPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/oovi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "oovi",
+            "description": "Hand oovi a job and a team of AI bots does it: a leader plans, a researcher digs, a writer drafts, a critic checks. Watch each bot work, and approve anything before it goes out. Free with your own AI key, or from $10/mo with credits that never expire.",
+            "tagline": "Your own team of AI on your desktop",
+            "website": "https://www.producthunt.com/r/YLKKXHEBGSFA4O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/creavit-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Creavit Studio 4.0",
+            "description": "Plan, record and turn your screen into a product story. Creavit Studio 4.0 brings QR-paired iPhone portrait capture, camera takes added after recording, Content Planner, Standard and Liquid MultiFocus, cinematic 3D MacBook and iPhone scenes, Smooth Scroll, Smooth Typing, your voice in another language, and Auto FX with your approval at every stage. Built for Mac. Also available on iPhone for recording and editing on the go.",
+            "tagline": "Screen recording, iPhone camera and cinematic demos for Mac",
+            "website": "https://www.producthunt.com/r/DO2TIU7I4GF4GO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/webless?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Webless Agents",
+            "description": "You wouldn’t put most website chatbots in front of a customer. Webless Agents are different: you describe the outcome you want in plain English, and Webless builds the agent on your published content, so it answers only from what you’ve said. You review every instruction and change anything before it goes live. Then it gets to work: answering questions, qualifying buyers, sending quotes, booking meetings and handing off to your team. For Product Hunt: 3 months of our highest plan, free.",
+            "tagline": "Agents you want to put in front of customers",
+            "website": "https://www.producthunt.com/r/VH6EKEDCE4QLCA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/omi-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Omi CLI",
+            "description": "Omi can build anything. Give Omi a coding task and let it get to work: it reads your repo, fixes bugs, runs tests, and uses a real browser to check your app. Parallel subagents tackle tasks in separate worktrees. Background agents keep going after you close the terminal; cloud agents can open PRs. Review changes as diffs, undo mistakes, and choose from 13 models or bring your own. Free to start: npm i -g @builditomi/cli",
+            "tagline": "AI coding agents that work while you're away.",
+            "website": "https://www.producthunt.com/r/GWUUBKQHSYM563?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/ulika?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Ulika",
+            "description": "AI can ship a React, Vite, or Next site in a weekend. Then marketing wants a headline change and opens a ticket. Ulika connects the site so anyone can edit copy and images on the page and publish, without touching code. Open beta, free to try at ulika.co.",
+            "tagline": "Visual editor for sites built with Claude, Cursor, or Codex",
+            "website": "https://www.producthunt.com/r/RMUGMIHZYR2MRX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/mockreel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Mockreel",
+            "description": "ok so every time I launch an app I need one of those 3D phone videos, and every tool wants a download or a subscription. nope. built my own. you drop in a screen recording (or a screenshot, I don't judge), it shows up inside a 3D iPhone / MacBook / iPad / browser window, you pick a look, add a camera move, slap a headline on it, export MP4 up to 4K. runs in a browser tab. no upload, no signup, no watermark, no catch. it's free. go make your app look expensive.",
+            "tagline": "your screen recording, but in a 3D phone. free, no signup",
+            "website": "https://www.producthunt.com/r/JMDEOIWLDDDOHB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/wispim-online-teleprompter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Wispim",
+            "description": "Wispim listens and follows the words you actually say. Pause, and it waits. Speed up, and it keeps up. The script floats over Instagram, TikTok or your camera while you record. iPhone, iPad, Android, Mac and Windows, and free in your browser.",
+            "tagline": "The teleprompter that follows your voice",
+            "website": "https://www.producthunt.com/r/RXLYIKOAUUHADC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/copy-haste?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Copy Haste",
+            "description": "Most clipboard managers give you one long list. Copy Haste sorts everything you copy into Text, Code, Links, Files, Media and Colors columns, so you find things by type instead of scrolling. Code is highlighted with on-device language detection, colors detect 20+ formats, links lose their trackers and passwords stay out. Files and Media are separated. Pin what you reuse and sync pins and settings across your Macs. Your history never leaves your Mac, and there is no account to create. macOS 26.",
+            "tagline": "Your clipboard, sorted into Text, Code, Links, Media & more",
+            "website": "https://www.producthunt.com/r/SUORZF2SYS5RYG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/pushback-flight-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Pushback",
+            "description": "A flight tracker for iPhone and Android that knows the lounge your status and cards get you into, whether you’ll make your connection, and your seat in 3D. One board for every flight, and what you may be owed when it’s late. Free while we launch.",
+            "tagline": "The flight tracker that knows which lounge you can use",
+            "website": "https://www.producthunt.com/r/XFBROXM4KGBSLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/slotify-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Slotify",
+            "description": "Slotify is a scheduling bot for Discord. Run /slotify, everyone marks when they're free from a personal link, and the best times show up live in your channel. Repeat polls weekly, remind who hasn't answered, and turn the winning time into a Discord event.",
+            "tagline": "Schedule game nights without leaving Discord",
+            "website": "https://www.producthunt.com/r/ZJRAOP2RZ2O53F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/teaserkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "TeaserKit",
+            "description": "TeaserKit is the director for your coding agent's videos. Installed in one line, it makes Claude Code, Codex, Cursor and other coding agents direct a launch video, ad or explainer from your repo or website: a concept, a house style, a human-made song cut to the beat and a quality check before the final render. Includes a local Studio app. One-time purchase.",
+            "tagline": "your coding agent directs your launch video",
+            "website": "https://www.producthunt.com/r/Z7T4PLU64AYRCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/30yr-uptime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "30yr-uptime",
+            "description": "A Claude Code mod that turns waiting on Claude into movement breaks. Every 45 min, when a turn runs past 15s, a pixel character acts out one of 16 moves for your neck, back, hips, legs, wrists, eyes or lungs. Done, In 5 min or Skip. Local, zero tokens.",
+            "tagline": "Claude Code mod for taking care of your body",
+            "website": "https://www.producthunt.com/r/WEHAOZA53IZPU4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/do-it-for-them-wallpaper-maker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Do It For Them Wallpaper Maker",
+            "description": "Turn your favorite photos into a taped collage for your phone, desktop, video calls, or social banners. Choose a layout, add your own words, and arrange the photos in your browser. Watermarked downloads are free. $5 buys five watermark-free exports, including ZIPs and 300 DPI print PDFs up to 4 × 6 feet.",
+            "tagline": "Photo wallpapers for the people you do it for",
+            "website": "https://www.producthunt.com/r/KGUPC67OJMHXIB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/raccoon-kids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Raccoon Kids",
+            "description": "Every family knows the nagging: \"Did you make your bed?\" every single day. Raccoon Kids takes that over. Reminders go out by themselves, a cute raccoon cheers kids on for every chore, kids show a photo, you approve, and coins become rewards they picked.",
+            "tagline": "Gamify Chores for Kids: no more nagging, just a cute raccoon",
+            "website": "https://www.producthunt.com/r/5ZJUPTGHYNOIVO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "PRODUCT",
+        "source": {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/products/zapyso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29"
+        },
+        "content": {
+            "productName": "Zapyso",
+            "description": "Zapyso records your calls on the Mac itself, with no bot joining, and writes a transcript and a summary with decisions and next steps. It notices calls in Zoom, Teams, Google Meet, Slack and more. Hold the right ⌘ key to dictate into any app. Speech recognition and summaries run on-device, so recordings and notes never leave your Mac. No account. Free, on Mac and iPhone. Needs Apple silicon and macOS 15.",
+            "tagline": "Free meeting notes and dictation that stay on your Mac",
+            "website": "https://www.producthunt.com/r/4IF373ZI2ZYN7T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+sanika+%28ID%3A+323846%29",
+            "startupName": null,
+            "pricingModel": null
+        },
+        "collectedAt": "2026-11-23T07:47:16.163189+00:00"
+    }
+]
