@@ -1,0 +1,18 @@
+[
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "MarkTechPost",
+            "url": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/"
+        },
+        "content": {
+            "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+            "description": "Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs. The post Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD appeared first on MarkTechPost .",
+            "fullText": null
+        },
+        "publishedDate": "2026-11-23T08:24:57+00:00",
+        "collectedAt": "2026-11-23T12:42:06.395705+00:00",
+        "fullTextAvailable": false
+    }
+]
